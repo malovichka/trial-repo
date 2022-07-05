@@ -12,6 +12,3 @@ ______________
 fifth line
 sixth line
 >>>>>>> 6092ff589af970417e21d11a1a350405425cda04
-
-for deletion
-
